@@ -50,7 +50,7 @@ export default function Home() {
             </a>
             {/* Offering 2 */}
             <a className="flex-1 py-7 px-1 bg-lime-600 flex flex-col items-center justify-center gap-4 rounded-sm hover:bg-lime-200">
-              <Image src="/Globe.svg" width={30} height={30} alt="globe logo" />
+              <Image src="/globe.svg" width={30} height={30} alt="globe logo" />
               <p className="text-xs">Expense Management</p>
             </a>
             {/* Offering 3 */}
