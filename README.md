@@ -18,7 +18,7 @@ This project showcases my frontend development skills in layout design, responsi
 
 ## 🧰 Tech Stack
 
-- **Framework:** [Next.js 14+](https://nextjs.org/)
+- **Framework:** [Next.js](https://nextjs.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment:** [Vercel](https://vercel.com)
 - **Design Source:** [Figma](https://www.figma.com/community/file/1498087976362579412/trustworthy-app-download)
