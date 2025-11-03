@@ -5,7 +5,7 @@ export default function Home() {
     <>
       {/* Header */}
       <header className="lg:fixed lg:top-0 lg:h-screen lg:w-96 flex flex-col gap-8 bg-lime-900 p-5 md:px-10 md:py-5 md:gap-12 lg:px-7">
-        {/* Nav */}
+        {/* Nav Bar */}
         <nav>
           <div className="flex items-start">
             <Image
