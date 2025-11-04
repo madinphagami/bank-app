@@ -1,7 +1,6 @@
 # Etran — Portfolio Project
 
-A modern, responsive landing page built with **Next.js** and **Tailwind CSS**, inspired by a free official Figma design.  
-This project showcases my frontend development skills in layout design, responsive UI, and component-based development.
+A modern, responsive landing page built with React, TypeScript, Tailwind CSS, Lucide Icons
 
 ---
 
@@ -16,24 +15,13 @@ This project showcases my frontend development skills in layout design, responsi
 
 ---
 
-## 🧰 Tech Stack
-
-- **Framework:** [Next.js](https://nextjs.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Deployment:** [Vercel](https://vercel.com)
-- **Design Source:** [Figma](https://www.figma.com/community/file/1498087976362579412/trustworthy-app-download)
-
----
-
-## 🖼️ Preview
-
-![Screenshot of Etran landing page](public/personphone.jpg)
+##Preview
 
 > Visit live site: [https://your-vercel-project-name.vercel.app](https://your-vercel-project-name.vercel.app)
 
 ---
 
-## 🛠️ Getting Started
+##Getting Started
 
 To run locally:
 
