@@ -2,8 +2,6 @@
 
 A modern, responsive landing page built with React, TypeScript, Tailwind CSS, Lucide Icons
 
----
-
 ## 🚀 Features
 
 - Fully responsive layout for mobile, tablet, and desktop
@@ -13,13 +11,9 @@ A modern, responsive landing page built with React, TypeScript, Tailwind CSS, Lu
 - Clean, semantic HTML structure
 - Hosted on [Vercel](https://vercel.com)
 
----
-
 ##Preview
 
-> Visit live site: [https://your-vercel-project-name.vercel.app](https://your-vercel-project-name.vercel.app)
-
----
+> Visit live site: [Bank Etran site](https://bank-app-one-pi.vercel.app/)
 
 ##Getting Started
 
