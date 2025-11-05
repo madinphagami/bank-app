@@ -1,8 +1,11 @@
+#Updates
+In-progress 🏗️
+
 # Etran — Portfolio Project
 
 A modern, responsive landing page built with React, TypeScript, Tailwind CSS, Lucide Icons
 
-## 🚀 Features
+##Features
 
 - Fully responsive layout for mobile, tablet, and desktop
 - Fixed sidebar navigation on large screens
