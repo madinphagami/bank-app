@@ -233,19 +233,6 @@ export default function Home() {
             >
               <Image
                 className="mb-5"
-                src="/icon1.svg"
-                width={150}
-                height={114}
-                alt="Image of wallet"
-              />
-              <p className="text-xs">Safe Storage</p>
-            </div>
-            <div
-              className="transition-transform duration-300 ease-in-out
-            hover:-translate-y-2"
-            >
-              <Image
-                className="mb-5"
                 src="/icon2.svg"
                 width={150}
                 height={114}
