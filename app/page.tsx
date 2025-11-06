@@ -37,7 +37,7 @@ export default function Home() {
 
         {/* Offerings */}
         <div className="w-auto">
-          <h3 className="text-xs text-lime-200 mb-4">Our offerings</h3>
+          <h3 className="text-xs text-lime-200 mb-4">Our Offerings</h3>
           {/* Offerings Items */}
           <div className="flex gap-2 text-center">
             {/* Offering 1 */}
